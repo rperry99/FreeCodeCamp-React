@@ -9,7 +9,7 @@ A hub for all the projects worked on during the FreeCodeCamp React Course. This 
 - I explored ways to create components by using JSX.
 
 ## Course Projects
-The following are all projects that the course guides me through.
+_The following are all projects that the course guides me through._
 ### 01. Static Webpage
 - [Link to the Repo](https://github.com/rperry99/01_Static-Page)
 - There is no live demo for this. In trying to make it work, I think I messed something up in the files. I am trying to fix this, and get the live version up and running.
@@ -18,7 +18,7 @@ The following are all projects that the course guides me through.
 - This one was created with `npm create vite@latest`, and is an actual react project, not using a CDN.
 
 ## Solo Projects
-The following are projects that the course gives, where there is no guidance on completing it. All code is my own code.
+_The following are projects that the course gives, where there is no guidance on completing it. All code is my own code._
 ### 01. Digital Business Card
 - [Link to the Repo](https://github.com/rperry99/solo-01_digital-business-card)
 - [Link to the Demo](https://rperry99.github.io/solo-01_digital-business-card/)
