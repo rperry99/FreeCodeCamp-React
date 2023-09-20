@@ -8,9 +8,20 @@ A hub for all the projects worked on during the FreeCodeCamp React Course. This 
 - Wasn't created with `create-react-app` or anything like that. It used the CDN versions of React, as well as Babel.
 - I explored ways to create components by using JSX.
 
-## Projects
+## Course Projects
+The following are all projects that the course guides me through.
 ### 01. Static Webpage
 - [Link to the Repo](https://github.com/rperry99/01_Static-Page)
+- There is no live demo for this. In trying to make it work, I think I messed something up in the files. I am trying to fix this, and get the live version up and running.
 - A static webpage using react.
 - This is a very simple project, mainly just to get used to using react.
 - This one was created with `npm create vite@latest`, and is an actual react project, not using a CDN.
+
+## Solo Projects
+The following are projects that the course gives, where there is no guidance on completing it. All code is my own code.
+### 01. Digital Business Card
+- [Link to the Repo](https://github.com/rperry99/solo-01_digital-business-card)
+- [Link to the Demo](https://rperry99.github.io/solo-01_digital-business-card/)
+- A static webpage, that acts as a digital business card.
+- The course provided a Figma file of the basic design, and I used my own photo and information to complete the project.
+- Somewhat over-engineered, by using multiple components and style sheets. This was on purpose, for the purpose of practice, not so much doing "best practices". 
