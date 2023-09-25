@@ -17,6 +17,14 @@ _The following are all projects that the course guides me through._
 - This is a very simple project, mainly just to get used to using react.
 - This one was created with `npm create vite@latest`, and is an actual react project, not using a CDN.
 
+### 02. Air BNB Clone
+- [Link to the Repo](https://github.com/rperry99/02_Air-BNB-Clone)
+- [Link to the Demo](https://rperry99.github.io/02_Air-BNB-Clone/)
+- A very simple recreation of an experience from Air BNB's website.
+- This project introduces:
+  - Props
+  - Creating components form an array of data
+
 ## Solo Projects
 _The following are projects that the course gives, where there is no guidance on completing it. All code is my own code._
 ### 01. Digital Business Card
