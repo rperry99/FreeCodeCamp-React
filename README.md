@@ -1,12 +1,13 @@
 # FreeCodeCamp-React
 A hub for all the projects worked on during the FreeCodeCamp React Course. This course was originally [taught on Scrimba](https://scrimba.com/learn/learnreact), but I am taking it on YouTube, [here](https://www.youtube.com/watch?v=bMknfKXIFA8). I wanted to have these projects and work locally, so that I could keep a record of them on my GitHub. 
 
+<!-- For the one with the numbers, the . after the number is ignored. -->
 ## Table of Contents:
 - [Guided Course Projects](#guided-course-rojects)
-  - [01. Static Webpage](#01.-static-webpage)
-  - [02. Air BNB clone](#02.-air-bnb-clone)
+  - [01. Static Webpage](#01-static-webpage)
+  - [02. Air BNB clone](#02-air-bnb-clone)
 - [Solo Projects](#solo-projects)
-  - [01. Digital Business Card](#01.-digital-business-card)
+  - [01. Digital Business Card](#01-digital-business-card)
 
 ## Guided Course Projects
 _The following are all projects that the course guides me through._
