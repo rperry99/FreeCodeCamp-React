@@ -8,6 +8,7 @@ A hub for all the projects worked on during the FreeCodeCamp React Course. This 
   - [02. Air BNB clone](#02-air-bnb-clone)
 - [Solo Projects](#solo-projects)
   - [01. Digital Business Card](#01-digital-business-card)
+  - [02. Joke Cards](#02-joke-cards)
 
 ## Guided Course Projects
 _The following are all projects that the course guides me through._
@@ -34,6 +35,13 @@ _The following are projects that the course gives, where there is no guidance on
 - A static webpage, that acts as a digital business card.
 - The course provided a Figma file of the basic design, and I used my own photo and information to complete the project.
 - Somewhat over-engineered, by using multiple components and style sheets. This was on purpose, for the purpose of practice, not so much doing "best practices".
+
+### 02. Joke Cards
+- [Link to the Repo](https://github.com/rperry99/solo-02_joke-cards)
+- [Link to the Demo](https://rperry99.github.io/solo-02_joke-cards/)
+- A static webpage that is just some cards with puns on them.
+- This project was meant to reinforce how to use props.
+- Each card uses different props to populate the information.
 
 ## Other Related Repos
 ### React Playground
