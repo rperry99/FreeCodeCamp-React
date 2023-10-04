@@ -9,7 +9,7 @@ A hub for all the projects worked on during the FreeCodeCamp React Course. This 
 - [Solo Projects](#solo-projects)
   - [01. Digital Business Card](#01-digital-business-card)
   - [02. Joke Cards](#02-joke-cards)
-  - [03. Travel Journal](#04-travel-journal)
+  - [03. Travel Journal](#03-travel-journal)
 - [Other Repos](#other-related-repos)
   - [React Playground](#react-playground) (Not really a project, just me getting used to react CDN.)
 
