@@ -6,6 +6,7 @@ A hub for all the projects worked on during the FreeCodeCamp React Course. This 
 - [Guided Course Projects](#guided-course-rojects)
   - [01. Static Webpage](#01-static-webpage)
   - [02. Air BNB clone](#02-air-bnb-clone)
+  - [03. Meme Generator](#03-meme-generator)
 - [Solo Projects](#solo-projects)
   - [01. Digital Business Card](#01-digital-business-card)
   - [02. Joke Cards](#02-joke-cards)
@@ -31,6 +32,19 @@ _The following are all projects that the course guides me through._
   - Props
   - Creating components form an array of data
 - This project is **not** responsive, and was not meant to be. The focus was on using react, not creaing a responsive website.
+
+### 03. Meme Generator
+- [Link to the Repo](https://github.com/rperry99/03_meme-generator)
+- [Link to the Demo](https://rperry99.github.io/03_meme-generator/)
+- First project with user interaction. The user can use the button to cycle through different meme images.
+- They can also use the input fields to enter in top and bottom text for the meme.
+- Something to note, not all meme images will work with the "top text/bottom text" format. I am pulling the memes from the [ImgFlip API](https://imgflip.com/api). I pulled the data separately, and compiled it into its own .js file.
+- This project introduced:
+  - Event Listeners
+  - State
+  - Conditional Rendering
+  - Forms
+  - Side Effects
 
 ## Solo Projects
 _The following are projects that the course gives, where there is no guidance on completing it. All code is my own code._
