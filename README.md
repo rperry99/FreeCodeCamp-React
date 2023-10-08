@@ -61,7 +61,8 @@ _The following are projects that the course gives, where there is no guidance on
 - [Link to the Demo](https://rperry99.github.io/solo-02_joke-cards/)
 - A static webpage that is just some cards with puns on them.
 - This project was meant to reinforce how to use props.
-- Each card uses different props to populate the information.
+- This uses a .js file that holds all of the jokes, and then the components are created using `.map()`.
+- Additionally, this acted as a sneak peak to Conditional Rendering.
 - This project is **not** responsive, and was not meant to be. The focus was on using react, not creaing a responsive website.
 
 ### 03. Travel Journal
